@@ -1,4 +1,4 @@
-INTEGRANTES:ROBERTO EDUARDO, PAULO CESAR
+INTEGRANTES:Roberto Eduardo, Paulo César de Figueredo Souza
 
 # Getting Started with Create React App
 
